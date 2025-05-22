@@ -2,7 +2,5 @@ pandas
 matplotlib
 seaborn
 numpy
-sklearn.preprocessing
-sklearn.model_selection
-sklearn.ensemble
+scikit-learn
 pickle
